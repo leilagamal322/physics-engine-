@@ -38,17 +38,17 @@ This is a simple physics-based platformer game built using Python and the `pygam
 
 ## How to Play
 
-# 1. Run the game:
+ 1. Run the game:
     python game.py
 
 
-# 2. Use the following controls:
+ 2. Use the following controls:
 
 Left Arrow: Move left
 Right Arrow: Move right
 Up Arrow: Jump (only when on a platform)
 
-# 3. The objective is to jump between platforms and reach the highest possible score. Avoid falling off the screen!
+ 3. The objective is to jump between platforms and reach the highest possible score. Avoid falling off the screen!
 
 ## Dependencies
 pygame: For rendering graphics and handling input.
@@ -56,9 +56,4 @@ numpy: For vector and matrix operations.
 
 Install these dependencies using the requirements.txt file.
 
-## Future Improvements
 
-Add more platform types (e.g., moving platforms, disappearing platforms).
-Introduce obstacles or enemies.
-Add sound effects and background music.
-Implement a high-score system.
